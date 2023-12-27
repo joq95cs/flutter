@@ -1,0 +1,17 @@
+flutter doctor
+flutter doctor -v
+flutter config --android-studio-dir="C:\Program Files\Android\Android Studio"
+flutter doctor --android-licenses
+flutter --version
+flutter upgrade
+flutter upgrade --force
+flutter run -d edge
+flutter packages get
+flutter clean
+
+dart --version
+dart pub upgrade
+dart pub get
+dart pub outdated --mode=null-safety
+dart pub upgrade --null-safety
+dart migrate
